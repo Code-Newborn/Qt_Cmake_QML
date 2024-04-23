@@ -10,8 +10,11 @@ ApplicationWindow {
 
     Rectangle {
         id: root
-        width: 600
+        width: 767
         height: 600
+        layer.samples: 16
+        layer.smooth: true
+        layer.enabled: true
 
         Shape {
             anchors.centerIn: parent
