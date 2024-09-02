@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(Qt_QML LANGUAGES CXX)
+project(Qt_Cmake_QML LANGUAGES CXX)
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
